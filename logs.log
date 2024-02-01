@@ -10420,3 +10420,19 @@ Increase the number of iterations (max_iter) or scale the data as shown in:
                                                               handle_missing='return_nan'))),
                 ('trained_model', LinearRegression(n_jobs=-1))])
 2024-01-26 15:24:29,854:INFO:save_model() successfully completed......................................
+2024-02-01 18:11:27,384:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-01 18:11:27,385:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-01 18:11:27,385:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-01 18:11:27,385:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-01 18:13:24,919:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-01 18:13:24,919:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-01 18:13:24,920:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-01 18:13:24,920:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
