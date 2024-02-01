@@ -16,7 +16,7 @@ AutoStreamML is a web application built with Streamlit, Ydata Profiling, and PyC
 ```bash
 git clone https://github.com/yourusername/AutoStreamML.git
 cd AutoStreamML
-
+```
 2. Install the required packages:
 
 ```bash
